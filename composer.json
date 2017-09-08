@@ -33,11 +33,7 @@
     "license": "Apache-2.0",
     "type": "library",
     "require": {
-        "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "~6.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "5.7"
+        "php": ">=5.5.9"
     },
     "support": {
         "docs": "https://developer.avalara.com",
